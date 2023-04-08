@@ -1,2 +1,9 @@
 @import './abstract/base';
 @import './components/navbar';
+@import './components/banner';
+
+
+html,body{
+  font-family: 'Roboto', sans-serif;
+}
+
